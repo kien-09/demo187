@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-product-demo-react" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/api-student-module-5" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/demo187" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/demo187/src/Component" vcs="Git" />
   </component>
 </project>
